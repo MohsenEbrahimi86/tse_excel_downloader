@@ -7,7 +7,9 @@ Download TSE Market Excel file and write it to the disk as a file.
  python<version> -m venv <virtual-environment-name>
 ```
 2- Install requirements by:
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 3- Edit output path, line with 
 ```
