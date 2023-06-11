@@ -12,9 +12,7 @@ pip install -r requirements.txt
 ```
 
 3- Edit output path, line with 
-```
-base_dir=...
-```
+```base_dir=...```
 
 4- Run:
 ```
